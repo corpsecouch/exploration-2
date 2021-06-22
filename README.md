@@ -1,4 +1,4 @@
-# nutrition-vue2
+# speech-recognition-mk1
 
 ## Project setup
 ```
