@@ -2,6 +2,8 @@
 
 This project transcribes the YouTube video in real time using the built-in SpeechRecognition provided by the web browser.
 
+[View the project](https://jasonbejot.com/speech-recognition-mk1/dist/)
+
 For this project to work you need to:
 1. Install Loopback
 2. Create a virtual device with your web browser as an input
@@ -13,7 +15,8 @@ After Loopback is set up:
 3. Press the play button on the video
 4. Watch as the video is magically transcribed in real time
 
-You can find the GitHub repo here: https://github.com/corpsecouch/speech-recognition-mk1/
+You can find the GitHub repo here:
+[https://github.com/corpsecouch/speech-recognition-mk1/](https://jasonbejot.com/speech-recognition-mk1/dist/)
 
 ## Project setup
 ```
