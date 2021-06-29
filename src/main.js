@@ -1,16 +1,12 @@
 import Vue from 'vue'
 import App from './App.vue'
+import VueGtag from 'vue-gtag';
 
-// google analytics
-// https://medium.com/dailyjs/tips-tricks-for-vue-analytics-87a9d2838915
+//Vue.config.productionTip = false
 
-import VueAnalytics from 'vue-analytics';
-
-Vue.use(VueAnalytics, {
-  id: 'UA-318678-4',
+Vue.use(VueGtag, {
+  config: { id: 'UA-318678-4' }
 });
-
-Vue.config.productionTip = false
 
 new Vue({
   render: h => h(App),

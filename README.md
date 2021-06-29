@@ -1,4 +1,4 @@
-# speech-recognition-mk1
+# exploration-2
 
 This project transcribes the YouTube video in real time using the built-in SpeechRecognition provided by the web browser.
 
